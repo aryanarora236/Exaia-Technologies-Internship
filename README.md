@@ -1,4 +1,4 @@
-# Exaia Technologies Internship  
+# Explainable AI & Text Analytics  
 Mental Health Disorder Detection through NLP and ML/DL Techniques    
 Synthetic Data Generation in 8 different settings for incorporation into existing training data  
 Realism & Fidelity Analysis of generated datasets  
